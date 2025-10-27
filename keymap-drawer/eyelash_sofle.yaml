@@ -63,8 +63,8 @@ layers:
   - {t: '$$mdi:backspace$$', type: backspace}
   - $$mdi:keyboard-space$$
   - $$mdi:apple-keyboard-control$$
-  - \
-  - $$mdi:backspace-reverse-outline$$
+  - {h: '$$mdi:arrow-down-bold$$', s: '$$mdi:bluetooth-connect$$'}
+  - BT CLR ALL
   layer1:
   - {t: '`', s: '~'}
   - F1
