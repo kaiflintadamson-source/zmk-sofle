@@ -1,7 +1,7 @@
 layout: {zmk_keyboard: eyelash_sofle}
 layers:
   LAYER0:
-  - {t: '$$mdi:backup-restore$$', type: bootloader}
+  - {t: '[', s: '{'}
   - '1'
   - {t: '2', s: '@'}
   - {t: '3', s: '#'}
@@ -13,7 +13,7 @@ layers:
   - {t: '8', s: '*'}
   - {t: '9', s: (}
   - {t: '0', s: )}
-  - BT CLR ALL
+  - {t: ']', s: '}'}
   - $$mdi:keyboard-esc$$
   - B
   - Y
@@ -54,8 +54,8 @@ layers:
   - P
   - $$mdi:apple-keyboard-shift$$
   - $$mdi:volume-off$$
-  - OUT BLE
-  - OUT USB
+  - {t: '=', s: +}
+  - $$mdi:keyboard-tab$$
   - $$mdi:apple-keyboard-option$$
   - $$mdi:keyboard-space$$
   - {t: '$$mdi:keyboard-return$$', type: enter}
@@ -63,8 +63,8 @@ layers:
   - {t: '$$mdi:backspace$$', type: backspace}
   - $$mdi:keyboard-space$$
   - $$mdi:apple-keyboard-control$$
-  - {h: '$$mdi:arrow-up-bold$$', s: '$$mdi:bluetooth-connect$$'}
-  - {h: '$$mdi:arrow-down-bold$$', s: '$$mdi:bluetooth-connect$$'}
+  - \
+  - LEFT WIN
 combos:
 - p: [14, 28, 40]
   k: '&soft_off'
