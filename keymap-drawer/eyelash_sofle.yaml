@@ -63,8 +63,8 @@ layers:
   - {t: '$$mdi:backspace$$', type: backspace}
   - $$mdi:keyboard-space$$
   - {t: '$$mdi:keyboard-return$$', type: enter}
-  - VOLUME DOWN
-  - VOLUME UP
+  - $$mdi:volume-low$$
+  - $$mdi:volume-high$$
 combos:
 - p: [14, 28, 40]
   k: '&soft_off'
