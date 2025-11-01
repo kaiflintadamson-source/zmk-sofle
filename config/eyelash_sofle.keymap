@@ -52,9 +52,9 @@
         layer0 {
             bindings = <
 &kp LEFT_BRACKET  &kp NUMBER_1  &kp N2   &kp N3     &kp N4     &kp N5           &kp UP_ARROW     &kp N6      &kp N7     &kp N8     &kp N9                &kp N0        &kp RIGHT_BRACKET
-&kp ESCAPE        &kp B         &kp Y    &kp O      &kp U      &kp SEMICOLON    &kp DOWN_ARROW   &kp SQT     &kp L      &kp D      &kp W                 &kp V         &kp Z
-&kp CAPS          &kp C         &kp I    &kp E      &kp A      &kp COMMA        &kp LEFT_ARROW   &kp PERIOD  &kp H      &kp T      &kp S                 &kp N         &kp Q
-&kp LSHFT         &kp G         &kp X    &kp J      &kp K      &kp MINUS        &kp RIGHT_ARROW  &kp SLASH   &kp R      &kp M      &kp F                 &kp P         &kp RIGHT_SHIFT
+&kp ESCAPE        &kp B         &kp Y    &kp O      &kp U      &kp SEMICOLON    &kp DOWN_ARROW   &kp SQT     &kp L      &kp D      &kp W                 &kp Z         &kp CAPS
+&kp V             &kp C         &kp I    &kp E      &kp A      &kp COMMA        &kp LEFT_ARROW   &kp PERIOD  &kp H      &kp T      &kp S                 &kp N         &kp Q
+&kp LSHFT         &kp G         &kp X    &kp J      &kp K      &kp MINUS        &kp RIGHT_ARROW  &kp SLASH   &kp R      &kp M      &kp F                 &kp P         &kp RCTRL
 &kp C_MUTE        &kp EQUAL     &kp TAB  &kp LCTRL  &kp SPACE  &kp LEFT_ALT     &kp ENTER        &kp BSPC    &kp SPACE  &kp ENTER  &kp NON_US_BACKSLASH  &kp LEFT_WIN
             >;
 
