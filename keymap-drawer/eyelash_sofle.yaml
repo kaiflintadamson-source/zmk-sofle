@@ -40,19 +40,19 @@ layers:
   - S
   - N
   - Q
-  - $$mdi:keyboard-esc$$
+  - {t: /, s: '?'}
   - G
   - X
   - J
   - K
   - {t: '-', s: _}
   - $$mdi:arrow-right-bold$$
-  - {t: /, s: '?'}
+  - $$mdi:apple-keyboard-control$$
   - R
   - M
   - F
   - P
-  - $$mdi:apple-keyboard-control$$
+  - $$mdi:keyboard-esc$$
   - $$mdi:volume-off$$
   - {t: '=', s: +}
   - $$mdi:keyboard-tab$$
