@@ -25,9 +25,9 @@ layers:
   - L
   - D
   - W
-  - V
   - Z
   - $$mdi:apple-keyboard-caps$$
+  - V
   - C
   - I
   - E
@@ -52,7 +52,7 @@ layers:
   - M
   - F
   - P
-  - $$mdi:apple-keyboard-shift$$
+  - $$mdi:apple-keyboard-control$$
   - $$mdi:volume-off$$
   - {t: '=', s: +}
   - $$mdi:keyboard-tab$$
