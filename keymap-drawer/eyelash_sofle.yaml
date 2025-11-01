@@ -14,7 +14,7 @@ layers:
   - {t: '9', s: (}
   - {t: '0', s: )}
   - {t: ']', s: '}'}
-  - $$mdi:keyboard-esc$$
+  - $$mdi:apple-keyboard-shift$$
   - B
   - Y
   - O
@@ -40,7 +40,7 @@ layers:
   - S
   - N
   - Q
-  - $$mdi:apple-keyboard-shift$$
+  - $$mdi:keyboard-esc$$
   - G
   - X
   - J
